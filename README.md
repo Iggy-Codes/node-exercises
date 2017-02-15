@@ -30,6 +30,9 @@ Write a node.JS program that read and shows in the console the html code of one 
 
 _Hint: You need npm module -> [`request`](https://github.com/request/request)_ 
 
+[link.txt](./link.txt)
+[My solution](./exercise3.js)
+
 ##4. File list
 
 Write a node.JS program that list the content of the current directory indicating if is a directory or a file
