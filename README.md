@@ -166,6 +166,8 @@ _Hint:
 
     var jsonObj = require("./path/to/myjsonfile.json");_
 
+[My solution](./exercise14.js)
+
 ## 15 JSON III - Delete An Element From A JSON Object
 Write a node.JS program that read a JSON file and delete one propierty.
 
