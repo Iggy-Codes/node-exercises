@@ -126,11 +126,15 @@ _Hint: **You can try save all data in one array and compare with search..**_
 ##10. Saving
 Write a node.JS program that sum all integers saved in other txt file.
 
+[My solution](./exercise10.js)
+
 ##11. Creating HTML
 Write a node.JS program that create a HTML file.
 *Access this HTML with http://localhost:8080 from your browser*
 
 _Hint: You need npm module -> html_
+
+[My solution](./exercise11.js)
 
 ##12. Creating HTML II
 Write a node.JS program that create a HTML file with a JavaScript function inside that say: "Hello!"
