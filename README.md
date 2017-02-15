@@ -142,7 +142,7 @@ Write a node.JS program that create a HTML file with a JavaScript function insid
 
 _Hint: You need npm module -> html_
 
----
+[My solution](./exercise12.js)
 
 ##13. JSON
 Write a node.JS program that read a JSON file and show you some propierties for console.
