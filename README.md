@@ -22,6 +22,8 @@ Write a node program that read a file (passed as parameter) in local machine and
 
 _Hint: You need npm module - [`fs`](https://nodejs.org/api/fs.html)_
 
+[My solution](./exercise2.js)
+
 ## 3. HTML Code
 
 Write a node.JS program that read and shows in the console the html code of one external page. The link of the external page should be read from a file `link.txt`
