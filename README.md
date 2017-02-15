@@ -175,6 +175,8 @@ _Hint:_
 
     var myJson = {'key':'value'}; delete myJson['key'];_
 
+[My solution](./exercise15.js)
+
 ## 16 JSON IV - Iterate
 Write a node.JS program that read a JSON file and show you some propierties for console with itinerate values
 
