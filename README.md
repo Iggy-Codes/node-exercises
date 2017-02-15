@@ -162,29 +162,17 @@ Read username, password, email and id,
 ## 14 JSON II - Read JSON From File System
 Write a node.JS program that read a JSON object and show the propierties for console
 
-_Hint: 
-
-    var jsonObj = require("./path/to/myjsonfile.json");_
-
 [My solution](./exercise14.js)
 
 ## 15 JSON III - Delete An Element From A JSON Object
 Write a node.JS program that read a JSON file and delete one propierty.
-
-_Hint:_
-
-    var myJson = {'key':'value'}; delete myJson['key'];_
 
 [My solution](./exercise15.js)
 
 ## 16 JSON IV - Iterate
 Write a node.JS program that read a JSON file and show you some propierties for console with itinerate values
 
-_Hint:_
-
-    for(var myKey in myJson) {
-       console.log("key:"+myKey+", value:"+myJson[myKey]);
-    }
+[My solution](./exercise16.js)
 
 ## 17 JSON V - Check Key
 Write a node.JS program that read a JSON file and compare if propierties exist in JSON file.
