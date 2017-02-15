@@ -157,6 +157,8 @@ Write a node.JS program that read a JSON file and show you some propierties for 
 
 Read username, password, email and id,
 
+[My solution](./exercise13.js)
+
 ## 14 JSON II - Read JSON From File System
 Write a node.JS program that read a JSON object and show the propierties for console
 
