@@ -112,12 +112,16 @@ Write a node.JS program that shows you the local hour of server.
 
 _Hint: You need npm module -> strftime_
 
+[My solution](./exercise8.js)
+
 ##9. Compare values
 Write a node.JS program that search information in .txt file and returns you how much coincidences find.
 
 *If you search about "John", and in your txt files are 2 John, should return 2*
 
 _Hint: **You can try save all data in one array and compare with search..**_
+
+[My solution](./exercise9.js)
 
 ##10. Saving
 Write a node.JS program that sum all integers saved in other txt file.
