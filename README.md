@@ -177,11 +177,7 @@ Write a node.JS program that read a JSON file and show you some propierties for 
 ## 17 JSON V - Check Key
 Write a node.JS program that read a JSON file and compare if propierties exist in JSON file.
 
-_Hint:_
-
-    if(myJson.hasOwnProperty('key2')){
-         //do something if the key exist
-    }
+[My solution](./exercise17.js)
 
 ## 18 JSON VI - Function
 Write a node.JS program that read a JSON file and return the values as a function 
