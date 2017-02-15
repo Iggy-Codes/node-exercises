@@ -51,6 +51,8 @@ Write a node.JS program that list the content of the current directory indicatin
 
 _Hint: You need `fs.readdirSync`, `fs.lstatSync` and `isDirectory()`_
 
+[My solution](./exercise4.js)
+
 ## 5. Writing on txt
 
 Write a node.JS program that creates a txt file with the text passed as a parameter
