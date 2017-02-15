@@ -179,19 +179,7 @@ Write a node.JS program that read a JSON file and compare if propierties exist i
 
 [My solution](./exercise17.js)
 
-## 18 JSON VI - Function
-Write a node.JS program that read a JSON file and return the values as a function 
-
-_example:_ 
-
-    function doSomething() { return doSomething.value + 50; }
-    var doSomethingElse = function() { return doSomethingElse.value + 100; };
-    doSomething.value = 100;
-    doSomethingElse.value = 100;
-    console.log( doSomething() ); -> 150
-    console.log( doSomethingElse() ); -> 200
-
-## 20 JSON VI - Comparing Two JSON **!!!!!!!Final Challenge** 
+## 18 JSON VI - Comparing Two JSON **!!!!!!!Final Challenge** 
 Write a node.JS program that read two JSON files and compare if propierties are same in both files and show success message when the comparation it's over.
 
 _Hint:_    
@@ -203,3 +191,5 @@ _Hint:_
 
 
 ## *CAUTION*, some process like Create HTML or Petitions to servers need close the previous conexion before execute another new.
+
+[My solution](./exercise18.js)
