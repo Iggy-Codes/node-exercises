@@ -79,6 +79,7 @@ Improve the previous exercise to also read and shows in the console the content 
     $ cat mySuperText.txt 
     it's a long way to the top...
 
+[My solution](./exercise5.js)
 
 ## 6. Processing values
 
