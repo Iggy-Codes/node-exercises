@@ -87,6 +87,8 @@ Write a node program that process local txt and return values as a Array.
 
 _Hint: You need npm module -> concat-stream_
 
+[My solution](./exercise6.js)
+
 ##8. Show Hour
 Write a node.JS program that shows you the local hour of server.
 
