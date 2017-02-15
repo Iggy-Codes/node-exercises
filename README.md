@@ -89,12 +89,7 @@ _Hint: You need npm module -> concat-stream_
 
 [My solution](./exercise6.js)
 
-##8. Show Hour
-Write a node.JS program that shows you the local hour of server.
-
-_Hint: You need npm module -> strftime_
-
-## ***. Parse external webpage (difficult!!)
+## 7. Parse external webpage (difficult!!)
 
 Write a node program that read the page `https://nodejs.org/api/all.html` and writes in a file (and shows it content after reading it) the **internal links** that contain some text passed as a parameter. 
 
@@ -109,6 +104,13 @@ Write a node program that read the page `https://nodejs.org/api/all.html` and wr
     The file was saved!
     https://nodejs.org/api/all.html#fs_fs_readfile_file_options_callback
     https://nodejs.org/api/all.html#fs_fs_readfilesync_file_options
+
+[My solution](./exercise7.js)
+
+##8. Show Hour
+Write a node.JS program that shows you the local hour of server.
+
+_Hint: You need npm module -> strftime_
 
 ##9. Compare values
 Write a node.JS program that search information in .txt file and returns you how much coincidences find.
