@@ -1,5 +1,9 @@
+[![Skylab](https://github.com/Iggy-Codes/logo-images/blob/master/logos/skylab-56.png)](http://www.skylabcoders.com/)
+[![NodeJS](https://github.com/Iggy-Codes/logo-images/blob/master/logos/nodejs.png)](https://nodejs.org/)
+
+
 # Node Exercises
-Node exercises solved during Skylab Coders Academy's MEAN Stack bootcamp
+Node exercises solved during [Skylab Coders Academy](http://www.skylabcoders.com/)'s MEAN Stack bootcamp
 
 ## 1. Connection to the server
 
